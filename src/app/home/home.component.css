@@ -19,8 +19,8 @@ body{
 }
 .topnav{
     overflow: hidden;/*visible,hidden,scroll,auto*/
-    background-color: darkblue;
-    width:80%;
+    background-color:white;
+    width:85%;
     margin: auto;
     padding: 3px 10px;
     /*border-radius: 20px;*/
@@ -30,7 +30,8 @@ body{
 }
 .topnav a{
     float: left;
-    color:white;
+    color:black;
+    
     text-align: center;
     padding: 14px;
     text-decoration: none;
